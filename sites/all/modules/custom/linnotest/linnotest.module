@@ -55,9 +55,11 @@ function list_cars() {
 
     <input type="search" ng-model="carl" placeholder="filter car..." />
     <ul class="list-cars">
-    <li class="animate-repeat" ng-repeat="car in cars" | filter:carl>
-    {{car}}
-    <img src ="{{car.uri}} | geturl:car.uri ">
+    <li class="animate-repeat" ng-repeat="car in cars" | filter:carl | getimg:car.uri>
+<img src = "sites/linnotest.localhost/files/{{car.filename}}" style="
+    width: 200px;
+    height: 100px;
+">
      <a href = "/node/{{car.nid}}">{{car.title}}</a>
     </li>
   </ul>
