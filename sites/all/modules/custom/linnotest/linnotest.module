@@ -62,7 +62,7 @@ function list_cars() {
     </li>
   </ul>
 
-
+     
    </div>
   </div>
 HTML;
