@@ -1,0 +1,4 @@
+package = custom
+name = linnotest
+description = linnotest site specific settings
+core = 7.x
