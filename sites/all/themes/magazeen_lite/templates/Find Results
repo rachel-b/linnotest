@@ -1,0 +1,22 @@
+Searching 957 files for "slide1.jpg"
+
+C:\linnotest\sites\all\themes\magazeen_lite\templates\page.tpl.php:
+   45          <div class="image_reel">
+   46              <a href="#"><img src="<?php print base_path() . drupal_get_path('theme', 'magazeenlite')?>/images/slideshow/slide3.jpg" alt="" /></a>
+   47:             <a href="#"><img src="<?php print base_path() . drupal_get_path('theme', 'magazeenlite')?>/images/slideshow/slide1.jpg" alt="" /></a>
+   48              <a href="#"><img src="<?php print base_path() . drupal_get_path('theme', 'magazeenlite')?>/images/slideshow/slide2.jpg" alt="" /></a>
+   49          </div>
+
+1 match in 1 file
+
+
+Searching 958 files for "slideshow/c1.jpg"
+
+C:\linnotest\sites\all\themes\magazeen_lite\templates\page.tpl.php:
+   44        <div class="window">
+   45          <div class="image_reel">
+   46:             <a href="#"><img src="<?php print base_path() . drupal_get_path('theme', 'magazeenlite')?>/images/slideshow/c1.jpg" alt="" /></a>
+   47              <a href="#"><img src="<?php print base_path() . drupal_get_path('theme', 'magazeenlite')?>/images/slideshow/c2.jpg" alt="" /></a>
+   48              <a href="#"><img src="<?php print base_path() . drupal_get_path('theme', 'magazeenlite')?>/images/slideshow/c3.jpg" alt="" /></a>
+
+1 match in 1 file

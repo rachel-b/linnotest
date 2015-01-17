@@ -2,7 +2,23 @@ var app = angular.module('myApp', []);
 
 
 function getCars($scope,$http) {
-    $http.get("http://linnotest.localhost:8082/cars")
-    .success(function(response) {$scope.cars = response;});
+
+    $scope.name = "rachli";
+    $scope.cars = {};
+
+    $http.get("http://linnotest.localhost:8082/all_cars")
+    .success(function(response) {
+    	$scope.cars = response;
+    });
 }
+
+
+
+
+
+
+
+
+
+
 

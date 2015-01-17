@@ -43,15 +43,31 @@
     <div class="main_view">
       <div class="window">
         <div class="image_reel">
-            <a href="#"><img src="<?php print base_path() . drupal_get_path('theme', 'magazeenlite')?>/images/slideshow/c1.jpg" alt="" /></a>
-            <a href="#"><img src="<?php print base_path() . drupal_get_path('theme', 'magazeenlite')?>/images/slideshow/c2.jpg" alt="" /></a>
-            <a href="#"><img src="<?php print base_path() . drupal_get_path('theme', 'magazeenlite')?>/images/slideshow/c3.jpg" alt="" /></a>
+            <a href="#"><img src="<?php print base_path() . drupal_get_path('theme', 'magazeenlite')?>/images/slideshow/c9.jpg" alt="" style=" width: 300px; height: 400px;" /></a>
+            <a href="#"><img src="<?php print base_path() . drupal_get_path('theme', 'magazeenlite')?>/images/slideshow/c2.jpg" alt="" style=" width: 300px; height: 400px;"  /></a>
+            <a href="#"><img src="<?php print base_path() . drupal_get_path('theme', 'magazeenlite')?>/images/slideshow/c4.jpg" alt="" style=" width: 300px; height: 400px;"  /></a>
+            <a href="#"><img src="<?php print base_path() . drupal_get_path('theme', 'magazeenlite')?>/images/slideshow/c5.jpg" alt="" style=" width: 300px; height: 350px;" /></a>
+            <a href="#"><img src="<?php print base_path() . drupal_get_path('theme', 'magazeenlite')?>/images/slideshow/log.jpg" alt="" style=" width: 400px; height: 350px;" /></a>
+            <a href="#"><img src="<?php print base_path() . drupal_get_path('theme', 'magazeenlite')?>/images/slideshow/c6.jpg" alt="" style=" width: 300px; height: 350px;" /></a>
+            <a href="#"><img src="<?php print base_path() . drupal_get_path('theme', 'magazeenlite')?>/images/slideshow/c8.jpg" alt="" style=" width: 300px; height: 350px;" /></a>
+            <a href="#"><img src="<?php print base_path() . drupal_get_path('theme', 'magazeenlite')?>/images/slideshow/c1.jpg" alt="" style=" width: 300px; height: 350px;" /></a>
+            <a href="#"><img src="<?php print base_path() . drupal_get_path('theme', 'magazeenlite')?>/images/slideshow/c9.jpg" alt="" style=" width: 300px; height: 400px;" /></a>
+            <a href="#"><img src="<?php print base_path() . drupal_get_path('theme', 'magazeenlite')?>/images/slideshow/c2.jpg" alt="" style=" width: 300px; height: 400px;"  /></a>
+            <a href="#"><img src="<?php print base_path() . drupal_get_path('theme', 'magazeenlite')?>/images/slideshow/c4.jpg" alt="" style=" width: 300px; height: 400px;"  /></a>
+            <a href="#"><img src="<?php print base_path() . drupal_get_path('theme', 'magazeenlite')?>/images/slideshow/c5.jpg" alt="" style=" width: 300px; height: 350px;" /></a>
+            <a href="#"><img src="<?php print base_path() . drupal_get_path('theme', 'magazeenlite')?>/images/slideshow/log.jpg" alt="" style=" width: 400px; height: 350px;" /></a>
+            <a href="#"><img src="<?php print base_path() . drupal_get_path('theme', 'magazeenlite')?>/images/slideshow/c6.jpg" alt="" style=" width: 300px; height: 350px;" /></a>
+            <a href="#"><img src="<?php print base_path() . drupal_get_path('theme', 'magazeenlite')?>/images/slideshow/c8.jpg" alt="" style=" width: 300px; height: 350px;" /></a>
+            <a href="#"><img src="<?php print base_path() . drupal_get_path('theme', 'magazeenlite')?>/images/slideshow/c1.jpg" alt="" style=" width: 300px; height: 350px;" /></a>
         </div>
       </div>
       <div class="paging">
         <a href="#" rel="1">1</a>
         <a href="#" rel="2">2</a>
         <a href="#" rel="3">3</a>
+        <a href="#" rel="4">4</a>
+        <a href="#" rel="5">5</a>
+        <a href="#" rel="6">6</a>
       </div>
     </div>
     <div class="force-next"><a href="#">Next</a></div>
