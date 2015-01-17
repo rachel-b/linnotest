@@ -77,7 +77,7 @@ function list_cars() {
    <div ng-app="myApp">
     <div ng-controller = "getCars">
     <ul class="list-cars">
-    <li class="animate-repeat" ng-repeat="car in cars" | filter:carl | getimg:car.uri>
+    <li class="animate-repeat" ng-repeat="car in cars" >
 <img src = "sites/linnotest.localhost/files/{{car.filename}}" style="
     width: 200px;
     height: 100px;
